@@ -1,0 +1,890 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"co",
+				"col-md-2"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"doc",
+				"documents"
+			],
+			[
+				"tag",
+				"tagText"
+			],
+			[
+				"dec",
+				"doctypeSelect"
+			],
+			[
+				"doct",
+				"doctypeSelect"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"upl",
+				"upload-btn"
+			],
+			[
+				"upload",
+				"uploadForm"
+			],
+			[
+				"uplo",
+				"uploadForm"
+			],
+			[
+				"ever",
+				"everyTotalPrice"
+			],
+			[
+				"chick",
+				"chickPrice"
+			],
+			[
+				"chickTotal",
+				"chickTotalPrice"
+			],
+			[
+				"pepTotal",
+				"pepTotalCost"
+			],
+			[
+				"every",
+				"everyTotal"
+			],
+			[
+				"evr",
+				"everyTotal"
+			],
+			[
+				"chic",
+				"chickTotal"
+			],
+			[
+				"ch",
+				"chickTotal"
+			],
+			[
+				"pep",
+				"pepTotal"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"col",
+				"col-md-1"
+			],
+			[
+				"num",
+				"numEvery"
+			],
+			[
+				"lun",
+				"lunchResults"
+			],
+			[
+				"dinn",
+				"dinnerResults"
+			],
+			[
+				"dessert",
+				"dessertResults"
+			],
+			[
+				"brea",
+				"breakfastResults"
+			],
+			[
+				"r",
+				"recipes"
+			],
+			[
+				"up",
+				"uploadDate"
+			],
+			[
+				"name",
+				"nameText"
+			],
+			[
+				"results",
+				"resultsByDate"
+			],
+			[
+				"resu",
+				"resultsByLowest"
+			],
+			[
+				"resultB",
+				"resultsByDate"
+			],
+			[
+				"result",
+				"resultsByDate"
+			],
+			[
+				"resultsBy",
+				"resultsByLowest"
+			],
+			[
+				"resultsby",
+				"resultsByHighest"
+			],
+			[
+				"bill",
+				"billCheck"
+			],
+			[
+				"res",
+				"resultsByLowest"
+			],
+			[
+				"amt",
+				"amtMax"
+			],
+			[
+				"amtMax",
+				"amtMax"
+			],
+			[
+				"create",
+				"createIndex"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"serv",
+				"serveSize"
+			],
+			[
+				"meal",
+				"mealTypeSelect"
+			],
+			[
+				"jsonQ",
+				"jsonQuery"
+			],
+			[
+				"radi",
+				"radioVal2"
+			],
+			[
+				"button",
+				"buttonVals"
+			],
+			[
+				"input",
+				"input-sm"
+			],
+			[
+				"am",
+				"amtMin"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"sed",
+				"sendFile"
+			],
+			[
+				"di",
+				"__dirname"
+			],
+			[
+				"send",
+				"sendFile"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"adv",
+				"advancedForm"
+			],
+			[
+				"body",
+				"bodyText"
+			],
+			[
+				"date",
+				"dateSelect"
+			],
+			[
+				"cre",
+				"createServer"
+			],
+			[
+				"text",
+				"textract"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"btn-",
+				"btn-block"
+			],
+			[
+				"inp",
+				"input-md"
+			],
+			[
+				"bt",
+				"btn-md"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"public",
+				"publicPath"
+			],
+			[
+				"sen",
+				"sendFile"
+			],
+			[
+				"publ",
+				"publicPath"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"dollar",
+				"dollarToggle"
+			],
+			[
+				"onc",
+				"onclick"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"dolla",
+				"dollarSwitcher"
+			],
+			[
+				"sele",
+				"selectedIndex"
+			],
+			[
+				"col-",
+				"col-md-4"
+			],
+			[
+				"no",
+				"no-gutter"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"blo",
+				"input-block"
+			],
+			[
+				"inpu",
+				"input-lg"
+			],
+			[
+				"c",
+				"col-md-3"
+			],
+			[
+				"file",
+				"fileInput"
+			],
+			[
+				"creat",
+				"createReadStream"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"remove",
+				"removeItem"
+			],
+			[
+				"n",
+				"no-gutter"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"cart",
+				"cartJ"
+			],
+			[
+				"filte",
+				"filterIt"
+			],
+			[
+				"t",
+				"tr\tTag"
+			],
+			[
+				"days",
+				"daysToNewYear"
+			],
+			[
+				"revers",
+				"reverseNum"
+			],
+			[
+				"lint",
+				"list-inline"
+			],
+			[
+				"col-md",
+				"col-md-4"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 5454,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 885,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/charles.faber/package.json",
+			"settings":
+			{
+				"buffer_size": 616,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: insta",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/public",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/public/css",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/public/js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/views",
+		"/C/node",
+		"/C/node/SGA Document Archive",
+		"/C/node/SGA Document Archive/app",
+		"/C/node/SGA Document Archive/app/models",
+		"/C/node/SGA Document Archive/config",
+		"/C/node/SGA Document Archive/public",
+		"/C/node/SGA Document Archive/public/css",
+		"/C/node/SGA Document Archive/public/js",
+		"/C/node/SGA Document Archive/uploads",
+		"/C/node/SGA Document Archive/views"
+	],
+	"file_history":
+	[
+		"/C/node/SGA Document Archive/app.js",
+		"/C/node/SGA Document Archive/app/routes.js",
+		"/C/node/SGA Document Archive/public/css/upload.css",
+		"/C/node/SGA Document Archive/public/css/index.css",
+		"/C/node/SGA Document Archive/views/index.handlebars",
+		"/C/node/SGA Document Archive/views/results.handlebars",
+		"/C/node/SGA Document Archive/public/js/upload.js",
+		"/C/node/SGA Document Archive/views/upload.handlebars",
+		"/C/node/SGA Document Archive/config/passport.js",
+		"/C/node/backups/SGA Document Archive/package.json",
+		"/C/node/backups/deeper/SGA Document Archive/package.json",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/public/js/cartOps.js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/views/menu.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/views/index.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/views/cart.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/public/css/style.css",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/views/signup.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/views/signup.handlebars",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/views/sales.handlebars",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/app.js",
+		"/C/node/Recipe Website/app.js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/views/about.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/views/sales",
+		"/C/node/SGA Document Archive/views/upload.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/package.json",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/views/menu.handlebars",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/server.js",
+		"/C/node/Recipe Website/views/results.handlebars",
+		"/C/node/Recipe Website/views/login.html",
+		"/C/node/Recipe Website/views/upload.html",
+		"/C/node/Recipe Website/views/index.handlebars",
+		"/C/node/Recipe Website/public/css/upload.css",
+		"/C/node/Recipe Website/public/js/upload.js",
+		"/C/node/Recipe Website/views/advanced.html",
+		"/C/node/Recipe Website/views/resultsTest.ejs",
+		"/C/node/SGA Document Archive/views/index.html",
+		"/C/node/SGA Document Archive/public/css/results.css",
+		"/C/node/SGA Document Archive/public/js/advanced.js",
+		"/C/node/SGA Document Archive/views/indexTest.handlebars",
+		"/C/node/SGA Document Archive/public/css/advanced.css",
+		"/C/node/SGA Document Archive/views/advanced.html",
+		"/C/node/SGA Document Archive/views/resultsTest.handlebars",
+		"/C/node/SGA Document Archive/views/login.html",
+		"/C/node/SGA Document Archive/public/css/login.css",
+		"/C/node/Recipe Website/public/css/advanced.css",
+		"/C/node/Recipe Website/package.json",
+		"/C/node/SGA Document Archive/node_modules/async/each.js",
+		"/C/node/SGA Document Archive/views/index.ejs",
+		"/C/node/SGA Document Archive/views/results.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/unit_test_filesB/unit_test_filesB/InsertionSortTests.java",
+		"/C/Users/charles.faber/Downloads/api.js",
+		"/C/Users/charles.faber/Downloads/app.js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/play.html",
+		"/C/Program Files/Git/mingw64/share/doc/git-doc/git-push.html",
+		"/C/node/SGA Document Archive/resolution.json",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/public/about.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/SGA Document Archive/node_modules/iconv-lite/lib/extend-node.js",
+		"/C/node/SGA Document Archive/public/advanced.html",
+		"/C/node/SGA Document Archive/public/upload.html",
+		"/C/node/SGA Document Archive/public/index.html",
+		"/C/node/SGA Document Archive/public/login.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/Ex_Files_Nodejs_EssT/Ch08/08_02/finished/app.js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/Ex_Files_Nodejs_EssT/Ch08/08_03/finished/app.js",
+		"/C/node/SGA Document Archive/index.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/Ex_Files_Nodejs_EssT/Ch08/08_04/finished/app.js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/Ex_Files_Nodejs_EssT/Ch06/06_03/finished/fileserver.js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/Ex_Files_Nodejs_EssT/Ch08/08_04/finished/public/index.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/SGA Document Archive/index.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/SGA Document Archive/css/home.css",
+		"/C/node/SGA Document Archive/package.json",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/SGA Document Archive/package.json",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/SGA Document Archive/server.js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/SGA Document Archive/node_modules/mongodb-core/package.json",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/Ex_Files_Nodejs_EssT/Ch06/06_05/finished/formserver.js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/Ex_Files_Nodejs_EssT/Ch06/06_05/finished/public/form.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/Ex_Files_Nodejs_EssT/Ch06/06_04/start/api.js",
+		"/C/Users/charles.faber/pizza2017/app.js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/js/cartOps.js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/menu.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/css/style.css",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/about.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/index.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/cart.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/Ex_Files_Nodejs_EssT/Ch04/04_02/start/promptPerson.js",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/css/styleB.css",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/js/cartClient.js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/PizzaLab/main.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Software Engineering/SGA Document Archive/home.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/chapter9/chapter9.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/ch3-BootStrap/menu.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/ch3-BootStrap/cart.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/Chapter 9/chapter9.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/Chapter 9/js/example9.js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/ch3-BootStrap/cartClient.js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/Midterm bonus/midtermBonus.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/Midterm bonus/js/exam.js",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/JShw2/JS_HW2_4.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/JShw2/JS_HW2_3.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/JShw2/JS_HW2_2.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/JShw2/JS_HW2.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/JShw1/JS-HW-1.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/JSlab2/JSlab2.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/JShw1/JS_HW2.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/csci3610-shoppingCart/menu.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/JSlab1/JSlab1.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/Pizza Website Lab/style.css",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/Pizza Website Lab/menu.html",
+		"/C/Users/charles.faber/Documents/Faber Personal Files/Senior/Spring 2017/Internet Programming/Pizza Website Lab/main.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"url",
+			"console.log",
+			"test",
+			"Test",
+			"results",
+			"Test",
+			"results",
+			"prices",
+			"handlebars",
+			"idText",
+			"passport",
+			"app.con",
+			"search",
+			"m",
+			"form",
+			"body",
+			"path",
+			"search",
+			"myDate",
+			"body",
+			"ObjectID",
+			"ngRoute",
+			"ng-app",
+			"connect",
+			"disable",
+			"remove",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5445,
+								5445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3283.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/charles.faber/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PizzaLabProj.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"seach",
+				"node\\SGA Document Archive\\node_modules\\async\\each.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

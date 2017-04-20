@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dolce Pizza - Sign Up</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href=".\css\style.css">
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<div class="container">
+	<div class="page-header">
+		<div class="row">
+			<a href="./"><img class="col-md-3" src="./images/logo.png" alt="logo"></a> 
+			<div class="col-md-7">
+				<ul  class="list-inline">	
+					<li><a class="list-inline-item" href="/">Home</a></li>
+					<li><a class="list-inline-item" href="/menu">Menu</a></li>
+					<li><a class="list-inline-item" href="/sales">Sales</a></li>
+					<li><a class="list-inline-item" href="/signup">Sign Up</a></li>
+				</ul>
+			</div>
+			<div class="col-md-2">
+				<a href="./cart"><img class="cart" src="./images/cart.png" alt="cart" style="width:60px;height:60px;"><span class="badge" id="numItem">0</span></a>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="clear"></div>
+	{{#if success}} 
+	<center>
+		<h2 style="color: red">Your new user account was successfully created!</h2>
+		<span style="font-size: 1.2em"><span style="font-weight: bold">Username: </span>{{user.name}}</span><br>
+		<span style="font-size: 1.2em"><span style="font-weight: bold">Password: </span>{{user.pass}}</span><br>
+		<span style="font-size: 1.2em"><span style="font-weight: bold">Email: </span>{{user.email}}</span><br>
+		<br>
+	</center>
+	{{/if}}
+		<div class="row">
+			<img src="./images/pizza.jpg" style="width: 100%; height: 5%;">
+		</div>
+	<form ref="signupForm"
+			  id="signupForm"
+			  action="http://localhost:3000/signup"
+			  method="post"
+			  enctype="form-data">
+		<fieldset>
+					<h2 style="font-style: italic; text-align: center">Join the Dolce Family!</h2>
+					<label for="name">Username:</label>
+					<input type="text" name = "name" id="name" class="form-control input-lg chat-input" placeholder="username" />
+					<br>
+					<label for="pass">Password:</label>
+					<input type="text" name = "pass" id="pass" class="form-control input-lg chat-input" placeholder="password" />
+					<br>
+					<label for="email">Email:</label>
+					<input type="text" name = "email" id="email" class="form-control input-lg chat-input" placeholder="email" />
+					<br><br>s
+					<input type="submit" value="Sign Up" class="btn btn-success btn-block btn-lg"/>
+					<br><br>
+		</fieldset>
+	</form>
+		<hr>
+	<footer>
+		<img class="logo-footer" src="./images/logo.png" alt="logo" height="100" width="150">
+		<a class="list-inline-item" href="./service.html">Customer Service</a>
+		<a class="list-inline-item" href="./account.html">Account</a>
+		<a class="list-inline-item" href="./special.html">Special</a>
+		<a class="list-inline-item" href="./about.html">About</a>
+		<div class="row">
+			<div class="col-md-4">
+				<p>Dolce Pizza was founded in 1967 by Nick Emanuelo and his son, Nick Emanuelo Jr. Together they began a pizza empire that has survived the ages through dedication to their pizza craft.</p>
+			</div>
+			<div class="col-md-4">
+				<p>Nick Emanuelo Sr. prefers traditional Italian pizza, with fresh basil, olive oil, and mozzerella. Don't forget that he's Italian!</p>
+			</div>
+			<div class="col-md-4">
+				<p>Nick Emanuelo Jr. loves to experiment with his pizza, comibining the best of both American and Italian culture, testing the boundarie- between culture, cuisine, and art</p>
+			</div>
+		</div>	</footer>
+</div>
+</body>
+</html>

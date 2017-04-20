@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dolce Pizza - Sign Up</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href=".\css\style.css">
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<div class="container">
+	<div class="page-header">
+		<div class="row">
+			<a href="./"><img class="col-md-3" src="./images/logo.png" alt="logo"></a> 
+			<div class="col-md-7">
+				<ul  class="list-inline">	
+					<li><a class="list-inline-item" href="/">Home</a></li>
+					<li><a class="list-inline-item" href="/menu">Menu</a></li>
+					<li><a class="list-inline-item" href="/about">About</a></li>
+					<li><a class="list-inline-item" href="/signup">Sign Up</a></li>
+				</ul>
+			</div>
+			<div class="col-md-2">
+				<a href="./cart"><img class="cart" src="./images/cart.png" alt="cart" style="width:60px;height:60px;"><span class="badge" id="numItem">0</span></a>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="clear"></div>
+
+
+	<form ref="signupForm"
+			  id="signupForm"
+			  action="http://localhost:3000/signup"
+			  method="post"
+			  enctype="form-data">
+		<fieldset>
+			<input type="text" name="name"><br>
+			<input type="text" name="pass"><br>
+			<input type="text" name="email"><br>
+			<input type="submit" name="create">
+		</fieldset>
+	</form>
+</div>
+</body>
+</html>

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dolce Pizza - Menu</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href=".\css\style.css">
+
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+<div class="container">
+	<div class="page-header">
+		<div class="row">
+			<a href="./"><img class="col-md-3" src="./images/logo.png" alt="logo"></a> 
+			<div class="col-md-7">
+				<ul  class="list-inline">	
+					<li><a class="list-inline-item" href="/">Home</a></li>
+					<li><a class="list-inline-item" href="/menu">Menu</a></li>
+					<li><a class="list-inline-item" href="/sales">Sales</a></li>
+					<li><a class="list-inline-item" href="/signup">Sign Up</a></li>
+
+				</ul>
+			</div>
+			<div class="col-md-2">
+				<a href="./cart"><img class="cart" src="./images/cart.png" alt="cart" style="width:60px;height:60px;"><span class="badge" id="numItem">0</span></a>
+			</div>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="pizza-images">
+			<div class="col-md-4">
+				<div class="text-center">
+					<p style="font-weight: bold;">Pepperoni</p>
+					<img class="pizza" src="./images/pepperoni.jpg" alt="pepperoni">
+					<div class="text-center">
+						<br>
+						<button type="button" class="btn btn-primary">Order</button>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="text-center">
+					<p style="font-weight: bold;">Chicken Alfredo</p>
+					<img class="pizza" src="./images/alfredo.jpg" alt="alfredo">
+					<div class="text-center">
+						<br>
+						<button type="button" class="btn btn-primary">Order</button>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="text-center">
+					<p style="font-weight: bold;">Everything</p>
+					<img class="pizza" src="./images/everything.jpg" alt="everything">
+					<div class="text-center">
+						<br>
+						<button type="button" class="btn btn-primary">Order</button>
+					</div>			
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<hr>
+
+	<footer>
+		<img class="logo-footer" src="./images/logo.png" alt="logo" height="100" width="150">
+		<a class="list-inline-item" href="./service.html">Customer Service</a>
+		<a class="list-inline-item" href="./account.html">Account</a>
+		<a class="list-inline-item" href="./special.html">Special</a>
+		<a class="list-inline-item" href="./about.html">About</a>
+		<div class="row">
+			<div class="col-md-4">
+				<p>Dolce Pizza was founded in 1967 by Nick Emanuelo and his son, Nick Emanuelo Jr. Together they began a pizza empire that has survived the ages through dedication to their pizza craft.</p>
+			</div>
+			<div class="col-md-4">
+				<p>Nick Emanuelo Sr. prefers traditional Italian pizza, with fresh basil, olive oil, and mozzerella. Don't forget that he's Italian!</p>
+			</div>
+			<div class="col-md-4">
+				<p>Nick Emanuelo Jr. loves to experiment with his pizza, comibining the best of both American and Italian culture, testing the boundarie- between culture, cuisine, and art</p>
+			</div>
+		</div>
+	</footer>
+</div>
+
+<script type="text/javascript" src="./js/cartOps.js"></script>
+<script type="text/javascript">registerButtonEvents();</script>
+
+</body>
+</html>

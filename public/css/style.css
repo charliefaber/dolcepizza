@@ -1,0 +1,49 @@
+.no-gutter > [class*='col-'] {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+th, td {
+	text-align: center;
+}
+
+
+.page-header li {
+	font-size: 2em;
+	margin-top: 70px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.page-header a {
+	color: darkred;
+
+}
+
+.page-header .cart {
+	margin-top: 20px;
+}
+
+.pizza {
+	height: 200px;
+	width: 250px;
+}
+
+a {
+	color: darkred;
+}
+
+.list-inline-item {
+	padding-left: 5px;
+	font-weight: bold;
+}
+
+.leftRail {
+	width: 15%;
+	float: left;
+}
+
+.rightRail {
+	width: 15%;
+	float: right;
+}
